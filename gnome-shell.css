@@ -1,0 +1,12 @@
+/* Top Bar */
+#panel {
+    background-color: #4b4652;
+    box-shadow: inset 0 -1px 0 0 #4b4652;
+}
+
+#panel.unlock-screen,
+#panel.login-screen,
+#panel:overview {
+    background-color: #4b4652;
+    box-shadow: none;
+}
