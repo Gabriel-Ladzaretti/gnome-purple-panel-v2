@@ -1,3 +1,10 @@
+/* Global Values */
+stage {
+    font-family: "Cantarell";
+    font-size: 12pt;
+    color: white;
+}
+
 /* Top Bar */
 #panel {
     background-color: #4b4652;
